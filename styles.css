@@ -40,7 +40,7 @@
 .vfrc-header .vfrc-avatar {
   display: none !important;
 }
-
+*/
 .vfrc-proactive-message {
   color: rgb(0, 0, 0) !important;
   border-radius: 12px !important;
@@ -51,7 +51,7 @@
   backdrop-filter: blur(38px) saturate(179%) !important;
   background-color: rgb(255, 255, 255) !important;
 }
-
+/*
 .vfrc-system-response--actions {
   display: block !important;
 }
