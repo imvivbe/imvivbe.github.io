@@ -99,10 +99,17 @@ box-shadow: 0px 0px 18px 0px rgba(192,255,113,1);
 }
 
 .vfrc-bubble {
+  color: white !important;
+  background-color: black !important;
+  border: 1px solid rgba(255, 255, 255, 0.24) !important;
+}
+
+/*
+.vfrc-bubble {
   color: rgba(255, 255, 255, 0.4) !important;
   background-color: rgba(0, 0, 0, 0) !important;
   border: 1px solid rgba(255, 255, 255, 0.24) !important;
-}
+}*/
 
 .vfrc-bubble:hover {
   border-color: #9ea1a5 !important;
