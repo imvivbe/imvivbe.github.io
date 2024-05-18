@@ -116,11 +116,11 @@ box-shadow: 0px 0px 18px 0px rgba(192,255,113,1);
   border-color: #9ea1a5 !important;
   background-color: rgba(0, 0, 0, 0) !important;
 }
-
+/*
 .vfrc-chat--dialog {
   background-color: #ffffff !important;
   color: #000000 !important;
-}
+}*/
 
 .vfrc-chat--dialog {
   background-color: #000000 !important;
