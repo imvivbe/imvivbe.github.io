@@ -39,9 +39,9 @@ box-shadow: 0px 0px 18px 0px rgba(192,255,113,1);
   border-bottom: 1px dashed rgba(117, 117, 117, 0.38) !important;
 }
 
-.vfrc-header .vfrc-avatar {
+/*.vfrc-header .vfrc-avatar {
   display: none !important;
-}
+}*/
 
 .vfrc-proactive-message {
   color: rgb(255, 255, 255) !important;
